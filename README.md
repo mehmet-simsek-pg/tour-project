@@ -1,6 +1,6 @@
 # Tour App using ReactJS
 
-The deployed version of this [app](https://horoscope-mehmet.netlify.app/)
+The deployed version of this [app](https://tourismus-projekt.netlify.app/)
 
 ## Project Skeleton
 
